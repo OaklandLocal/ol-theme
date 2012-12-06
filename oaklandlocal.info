@@ -1,0 +1,20 @@
+name = Oakland Local
+description = Based on the 960 grid system; requires the "ninesixty" theme.
+version = 6.x-0.1
+core = 6.x
+engine = phptemplate
+base theme = ninesixty
+
+regions[top] = Top
+regions[login] = Login
+regions[mainmenu] = Main Menu
+regions[header] = Header
+regions[topicheader] = Topic Header
+regions[content] = Content
+regions[subcontent] = Sub Content
+regions[left] = Left Sidebar
+regions[right] = Right Sidebar
+regions[footer] = Footer
+regions[navigation] = Navigation
+regions[single] = Article Summary
+regions[aside] = Aside
