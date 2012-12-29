@@ -640,6 +640,18 @@ div#sidebar-right span {
     text-decoration: none;
 }
 
+/* Footer credits */
+
+#footer p {
+    text-align: center;
+    font-size: 13px;
+}
+
+#footer p a {
+    color: #369;
+    text-decoration: none;
+}
+
 /* forums */
 
 .forum-post {
